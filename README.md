@@ -1,6 +1,8 @@
 # HR-Attrition-Risk-Analysis
 
 ![HR Analytics Dashboard Screenshot](Snapshot - HR Analytcis Dashbaord.jpg)
+<img width="1497" height="849" alt="Snapshot - HR Analytcis Dashbaord" src="https://github.com/user-attachments/assets/965f4bef-e0c4-4431-b080-7396939db7f2" />
+
 
 Project Overview
 This project provides a comprehensive look at organizational health by analyzing employee turnover and satisfaction levels. By synthesizing complex HR data, the dashboard allows stakeholders to pinpoint exactly where and why attrition is occurring.

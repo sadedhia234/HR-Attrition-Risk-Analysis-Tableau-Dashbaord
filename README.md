@@ -1,10 +1,8 @@
 # HR-Attrition-Risk-Analysis
 
-Project Overview
-This project provides a comprehensive look at organizational health by analyzing employee turnover and satisfaction levels. By synthesizing complex HR data, the dashboard allows stakeholders to pinpoint exactly where and why attrition is occurring.
-
 Executive Summary
-This project features a comprehensive HR Analytics Dashboard designed to monitor workforce stability and identify financial risks associated with employee turnover. By analyzing a dataset of 1,470 employees, the dashboard provides a high-level view of key performance indicators (KPIs) such as attrition rates, job satisfaction, and demographic trends to support data-driven decision-making for HR and Finance departments.
+
+This project features a comprehensive HR Analytics Dashboard designed to monitor workforce stability and identify financial risks associated with employee turnover. By analyzing a dataset of 1,470 employees, the dashboard provides a high-level view of key performance indicators (KPIs) such as attrition rates, job satisfaction, and demographic trends to support data-driven decision-making for HR and Finance departments. This project provides a comprehensive look at organizational health by analyzing employee turnover and satisfaction levels. By synthesizing complex HR data, the dashboard allows stakeholders to pinpoint exactly where and why attrition is occurring.
 
 <img width="1497" height="849" alt="Snapshot - HR Analytcis Dashbaord" src="https://github.com/user-attachments/assets/965f4bef-e0c4-4431-b080-7396939db7f2" />
 
